@@ -34,4 +34,4 @@ cmake --build .
 
 ## Run
 
-You can now run the code simply by executing the `tpSph.exe` file. A window should open with the simulation in a grid. You can start and stop the simulation by pressing **P**, and quit the program by pressing **Q**. For a detail of the different options of the simulation, you can check the help section by pressing **H**.
+You can now run the code simply by executing the `iisph.exe` file. A window should open with the simulation in a grid. You can start and stop the simulation by pressing **P**, and quit the program by pressing **Q**. For a detail of the different options of the simulation, you can check the help section by pressing **H**.
